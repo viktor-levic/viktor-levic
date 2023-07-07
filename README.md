@@ -5,7 +5,7 @@
 
 ### About me
 
-- 👨‍🎓 Currently I'm studying at Taras Schevchenko National University Of Kyiv.
+- 👨‍🎓 Currently I'm studying at Taras Shevchenko National University of Kyiv.
 
 - 📈 Faculty Of Mechanics And Mathematics/Bachelor Of Computer Mathematics/4th year student.
 
