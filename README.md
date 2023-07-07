@@ -31,9 +31,12 @@
 <details>
 <summary> My hobbies </summary>
 
-- Reading
-- Playing the guitar
-- Listening to music
+| Rank | Languages              |
+|-----:|------------------------|
+|     1| Redaing                 |
+|     2| Playing the guitar     |
+|     3| Listening to music     |
+
 
 </details>
 
