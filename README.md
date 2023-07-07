@@ -1,10 +1,8 @@
-- 👋 Hi, I’m Viktor Levitskyi.
-- 👀 I’m interested in Java, Spring Framework.
-- 🌱 I’m currently learning Java.
+### 👋 Hi, I’m Viktor Levitskyi.
+### 👀 I’m interested in Java, Spring Framework.
+### 🌱 I’m currently learning Java.
 
 ## About me
-
-Hi, I'm Mona. You might recognize me as GitHub's mascot.
 
 | Rank | Languages |
 |-----:|-----------|
