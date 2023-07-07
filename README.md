@@ -10,7 +10,7 @@ Hi, I'm Mona. You might recognize me as GitHub's mascot.
 |-----:|-----------|
 |     1| Java      |
 |     2| Python    |
-|     3| C         |
+|     3| C/C++     |
 
 - 📫 How to reach me:
 - https://www.linkedin.com/in/viktor-levitskyi-391447266
