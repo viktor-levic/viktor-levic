@@ -33,7 +33,7 @@
 
 | Rank | Languages              |
 |-----:|------------------------|
-|     1| Redaing                 |
+|     1| Reading                 |
 |     2| Playing the guitar     |
 |     3| Listening to music     |
 
