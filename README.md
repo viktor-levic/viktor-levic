@@ -1,5 +1,9 @@
 ![Halloween Chill](https://github.com/viktor-levic/viktor-levic/assets/133751188/373345a0-5d59-40b8-8b9c-8f6851ae81ea)
 
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif]" width="100"/>
+</div>
+
 ### About me
 
 - 👨‍🎓 Currently I'm studying at Taras Shevchenko National University of Kyiv.
