@@ -1,7 +1,4 @@
----
-> The road will be mastered by the walking one.
-
-![(https://github.com/viktor-levic/Pictures/blob/main/Greeting_Witch.gif)
+![Greeting_Witch](https://github.com/viktor-levic/viktor-levic/assets/133751188/0e231765-8005-4ac0-ad8f-6a1239a7617e)
 
 ### About me
 
