@@ -1,4 +1,4 @@
-![Greeting_Witch](https://github.com/viktor-levic/viktor-levic/assets/133751188/0e231765-8005-4ac0-ad8f-6a1239a7617e)
+![Halloween Chill](https://github.com/viktor-levic/viktor-levic/assets/133751188/373345a0-5d59-40b8-8b9c-8f6851ae81ea)
 
 ### About me
 
