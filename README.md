@@ -71,34 +71,4 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=viktor-levic&theme=merko&hide_border=true&border_radius=5)](https://git.io/streak-stats)
 
 
-### My programming interests
-
-<details>
-<summary> My top programming languages </summary>
-  
-| Rank | Languages |
-|-----:|-----------|
-|     1| Java      |
-|     2| Python    |
-|     3| C/C++     |
-
-</details>
-
-
-### My hobbies
-
-<details>
-<summary> My hobbies </summary>
-
-| Rank | Languages              |
-|-----:|------------------------|
-|     1| Reading                 |
-|     2| Playing the guitar     |
-|     3| Listening to music     |
-
-
-</details>
-
-
-## 📫 How to reach me:
-- https://www.linkedin.com/in/viktor-levitskyi-391447266
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viktor-levic&theme=merko&show_icons=true)
