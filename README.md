@@ -36,11 +36,33 @@
 ---
  
 ### 👨‍💻 About me:
-- I'm a student in Taras Shevchenko National University of Kyiv, Ukraine <img src="https://github.com/viktor-levic/viktor-levic/assets/133751188/ed382f85-36b0-43bd-bb73-edf3c0481ad2" width="30">.
+- <img src="https://github.com/viktor-levic/viktor-levic/assets/133751188/ed382f85-36b0-43bd-bb73-edf3c0481ad2" width="30"> I'm a student in Taras Shevchenko National University of Kyiv, Ukraine.
 
-- Faculty of Mechanics And Mathematics/Department of Algebra and Computer Mathematics/Bachelor Of Computer Mathematics/4th year student <img src="https://media.tenor.com/iKq0McbAqCMAAAAC/math-zach-galifianakis.gif" width="30">.
+- <img src="https://media.tenor.com/iKq0McbAqCMAAAAC/math-zach-galifianakis.gif" width="30"> Faculty of Mechanics And Mathematics/Department of Algebra and Computer Mathematics/Bachelor Of Computer Mathematics/4th year student.
 
-- I'm interested in Java development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm interested in Java development.
+
+
+---
+
+
+# 🛠️ Languages and Tools :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL"  alt="PostgreSQL" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" title="PyCharm" alt="PyCharm" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy" alt="NumPy" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-line-wordmark.svg" title="TensorFlow" alt="TensorFlow" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="Cplusplus" alt="Cplusplus" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" alt="Arduino" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="50" height="50"/>&nbsp;
+</div>
 
 
 ### My programming interests
