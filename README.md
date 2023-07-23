@@ -64,6 +64,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="50" height="50"/>&nbsp;
 </div>
 
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=viktor-levic&theme=merko&hide_border=true&border_radius=5)](https://git.io/streak-stats)
+
 
 ### My programming interests
 
