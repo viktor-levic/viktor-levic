@@ -32,7 +32,7 @@
 ---
  
 ### 👨‍💻 About me:
-- <img src="https://github.com/viktor-levic/viktor-levic/assets/133751188/ed382f85-36b0-43bd-bb73-edf3c0481ad2" width="30"> I'm a student in Taras Shevchenko National University of Kyiv, Ukraine.
+- <img src="https://github.com/viktor-levic/viktor-levic/blob/main/КНУ_МЕХМАТ.gif" width="30"> I'm a student in Taras Shevchenko National University of Kyiv, Ukraine.
 
 - <img src="https://media.tenor.com/iKq0McbAqCMAAAAC/math-zach-galifianakis.gif" width="30"> Faculty of Mechanics And Mathematics/Department of Algebra and Computer Mathematics/Bachelor Of Computer Mathematics/4th year student.
 
