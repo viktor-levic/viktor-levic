@@ -22,11 +22,12 @@
 <div id="headers" align="center">
 <h1>
   Hi everybody)
-  I'm Viktor Levitskyi
+  I'm Viktor Levitskyi, a.k.a. Levit
   <img src="https://emoji.discadia.com/emojis/19e6e7b6-e2c9-4cfa-8f13-cdd371a91f02.gif" width="50px"/>
 </h1>
 </div>
 
+![Image alt](https://github.com/viktor-levic/viktor-levic/blob/main/Levit_5.png)
 
 ---
  
