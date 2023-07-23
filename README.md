@@ -28,11 +28,6 @@
 </div>
 
 
-<div align="center">  
-   <img src="https://github.com/viktor-levic/viktor-levic/assets/133751188/570e62c0-7852-4a36-a991-efbf8c7b8490" width="800" height="500"/>
-</div>
-
-
 ---
  
 ### 👨‍💻 About me:
@@ -65,11 +60,3 @@
 </div>
 
 ---
-
-### :fire: My Stats :
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=viktor-levic&theme=merko&hide_border=true&border_radius=5)](https://git.io/streak-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viktor-levic&hide_progress=true)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viktor-levic&theme=merko&show_icons=true)
