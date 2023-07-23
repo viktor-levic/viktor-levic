@@ -21,6 +21,13 @@
   <img src="https://komarev.com/ghpvc/?username=viktor-levic&style=flat-square&color=blue" alt=""/>
 </div>
 
+<div id="headers" align="center">
+<h1>
+  Hi everybody)
+  <img src="https://emoji.discadia.com/emojis/19e6e7b6-e2c9-4cfa-8f13-cdd371a91f02.gif" width="50px"/>
+</h1>
+</div>
+
 ### About me
 
 - 👨‍🎓 Currently I'm studying at Taras Shevchenko National University of Kyiv.
