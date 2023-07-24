@@ -13,6 +13,9 @@
  <a href="https://www.reddit.com/user/Diplomat02">
    <img src="https://img.shields.io/badge/Reddit-orange?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Badge"/>
   </a>
+ <a href="https://www.codewars.com/users/Viktor_Levitskyi">
+   <img src="https://img.shields.io/badge/Codewars-red?style=for-the-badge&logo=codewars&logoColor=black" alt="Codewars Badge"/>
+ </a>
  <a>
     <img src="https://komarev.com/ghpvc/?username=viktor-levic&style=flat-square&color=blue" alt="" width="147px"/>
  </a>
