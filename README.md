@@ -27,8 +27,6 @@
 </h1>
 </div>
 
-![Image alt](https://github.com/viktor-levic/viktor-levic/blob/main/Levit_5.png)
-
 ---
  
 # 👨‍💻 About me:
