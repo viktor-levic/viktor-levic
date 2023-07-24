@@ -4,9 +4,6 @@
 
 
 <div id="badges" align="center">
- <a>
-    <img src="https://komarev.com/ghpvc/?username=viktor-levic&style=flat-square&color=blue" alt="" width="147px"/>
- </a>
  <a href="https://www.linkedin.com/in/viktor-levitskyi-391447266/">
   <img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn Badge"/>
  </a>
@@ -16,6 +13,9 @@
  <a href="https://www.reddit.com/user/Diplomat02">
    <img src="https://img.shields.io/badge/Reddit-orange?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Badge"/>
   </a>
+ <a>
+    <img src="https://komarev.com/ghpvc/?username=viktor-levic&style=flat-square&color=blue" alt="" width="147px"/>
+ </a>
 </div>
 
 
