@@ -64,4 +64,4 @@
 
 # 🔖 My Projects:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=viktor-levic&theme=discord_old_blurple&repo=WebsiteForRunners)](https://github.com/viktor-levic/WebsiteForRunners)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=viktor-levic&theme=transparent&repo=WebsiteForRunners)](https://github.com/viktor-levic/WebsiteForRunners)
