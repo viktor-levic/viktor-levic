@@ -53,6 +53,27 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>
 </div>
 
+
+<p align="left">  
+<a href="https://github.com/viktor-levic/readme-components">
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=blue&logo=react&animation=spin&svgfill=15d8fe">  
+ </a>
+   <a href="https://github.com/viktor-levic/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=blue&logo=typescript&svgfill=2d79c7">
+</a>
+  <a href="https://github.com/viktor-levic/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=blue&logo=webpack&svgfill=8ed5fa">
+</a>
+ <a href="https://github.com/viktor-levic/readme-components">
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=blue&logo=node.js&svgfill=659b60">
+</a>
+<a href="https://github.com/viktor-levic/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=blue&logo=ember.js&svgfill=df5c43">  
+</a>
+<a href="https://github.com/viktor-levic/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=blue&logo=sass&svgfill=cd6799">
+</a>
+
 ---
 
 # 🔖 Repositories:
