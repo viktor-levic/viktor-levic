@@ -65,3 +65,15 @@
 # 🔖 My Projects:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=viktor-levic&theme=tokyonight&repo=WebsiteForRunners)](https://github.com/viktor-levic/WebsiteForRunners)
+
+# ⚙️ GitHub статистика:
+<table>
+  <tr>
+    <td>
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=viktor-levic&theme=tokyonight&background=000000" alt="Dev's Github stats"/>
+    </td>
+    <td>
+      <img height="195px" align="right" alt="Dev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=viktor-levic&layout=compact&theme=tokyonight"/>
+    </td>
+  </tr>
+</table>
