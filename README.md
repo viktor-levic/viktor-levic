@@ -47,32 +47,25 @@
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sql/sql-original-wordmark.svg" title="SQL" alt="SQL" width="50" height="50"/>&nbsp;
+  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/hibernate/hibernate-original-wordmark.svg" title="Hibernate"  alt="Hibernate" width="50" height="50"/>&nbsp;
+
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL"  alt="PostgreSQL" width="50" height="50"/>&nbsp;
+  
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>
+  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50"/>
+
+   <img src="https://github.com/devicons/devicon/blob/master/icons/junit/junit-original-wordmark.svg" title="JUnit" alt="JUnit" width="50" height="50"/>
+
+   <img src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original-wordmark.svg" title="Maven" alt="Maven" width="50" height="50"/>
+
+   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="50" height="50"/>
+
+   <img src="https://github.com/devicons/devicon/blob/master/icons/aws/aws-original-wordmark.svg" title="AWS" alt="AWS" width="50" height="50"/>
 </div>
-
-
-<p align="left">  
-<a href="https://github.com/viktor-levic/readme-components">
- <img  src="https://readme-components.vercel.app/api?component=logo&fill=blue&logo=react&animation=spin&svgfill=15d8fe">  
- </a>
-   <a href="https://github.com/viktor-levic/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=blue&logo=typescript&svgfill=2d79c7">
-</a>
-  <a href="https://github.com/viktor-levic/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=blue&logo=webpack&svgfill=8ed5fa">
-</a>
- <a href="https://github.com/viktor-levic/readme-components">
- <img  src="https://readme-components.vercel.app/api?component=logo&fill=blue&logo=node.js&svgfill=659b60">
-</a>
-<a href="https://github.com/viktor-levic/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=blue&logo=ember.js&svgfill=df5c43">  
-</a>
-<a href="https://github.com/viktor-levic/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=blue&logo=sass&svgfill=cd6799">
-</a>
 
 ---
 
