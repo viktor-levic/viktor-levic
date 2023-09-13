@@ -16,7 +16,7 @@
  <a href="https://www.codewars.com/users/Viktor_Levitskyi">
    <img src="https://img.shields.io/badge/Codewars-red?style=for-the-badge&logo=codewars&logoColor=black" alt="Codewars Badge"/>
  </a>
- <a>
+ <a href="https://levickij15.wixsite.com/levit-java">
     <img src="https://komarev.com/ghpvc/?username=viktor-levic&style=flat-square&color=blue" alt="" width="147px"/>
  </a>
 </div>
