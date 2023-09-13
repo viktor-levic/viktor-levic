@@ -17,7 +17,7 @@
    <img src="https://img.shields.io/badge/Codewars-red?style=for-the-badge&logo=codewars&logoColor=black" alt="Codewars Badge"/>
  </a>
  <a>
-    <img src="https://komarev.com/ghpvc/?username=viktor-levic&style=flat-square&color=blue" alt="" width="147px"/>
+    <img src="https://komarev.com/ghpvc/?username=viktor-levic&style=flat-square&color=blue" alt=""/>
  </a>
 </div>
 
