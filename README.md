@@ -55,7 +55,7 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/junit/junit-original-wordmark.svg" title="JUnit" alt="JUnit" width="50" height="50"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original-wordmark.svg" title="Maven" alt="Maven" width="50" height="50"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="50" height="50"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/aws/aws-original-wordmark.svg" title="AWS" alt="AWS" width="50" height="50"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="50" height="50"/>&nbsp;
 </div>
 
 ---
