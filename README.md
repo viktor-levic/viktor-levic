@@ -22,7 +22,7 @@
    <img src="https://img.shields.io/badge/My%20Technical%20Blog-yellow" alt="My Site Badge" width="148px"/>
  </a>
  <a href="https://www.youtube.com/playlist?list=PLTbWlgSorUOZzInUbolgwpdvFxYvtjvcg">
-   <img src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=black" alt="Study Resources"/>
+   <img src="https://img.shields.io/badge/Youtube-green?style=for-the-badge&logo=youtube&logoColor=white" alt="Study Resources"/>
  </a>
 </div>
 
