@@ -7,12 +7,15 @@
  <a href="https://www.linkedin.com/in/viktor-levitskyi-391447266/">
   <img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn Badge"/>
  </a>
+ <a href="https://t.me/Viktor_Levitskyi">
+   <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+ </a>
  <a href="https://twitter.com/levitskyi_v">
    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+ </a>
  <a href="https://www.reddit.com/user/Diplomat02">
    <img src="https://img.shields.io/badge/Reddit-orange?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Badge"/>
-  </a>
+ </a>
  <a href="https://www.codewars.com/users/Viktor_Levitskyi">
    <img src="https://img.shields.io/badge/Codewars-red?style=for-the-badge&logo=codewars&logoColor=black" alt="Codewars Badge"/>
  </a>
