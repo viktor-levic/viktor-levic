@@ -17,7 +17,7 @@
    <img src="https://img.shields.io/badge/Codewars-red?style=for-the-badge&logo=codewars&logoColor=black" alt="Codewars Badge"/>
  </a>
  <a href="https://levickij15.wixsite.com/levit-java">
-    <img src="https://img.shields.io/badge/My%20Technical%20Blog-yellow" alt="My Site Badge"/>
+    <img src="https://img.shields.io/badge/My%20Technical%20Blog-yellow" alt="My Site Badge" width="148px"/>
  </a>
 </div>
 
