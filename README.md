@@ -58,15 +58,3 @@
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm interested in Java development.
 
 ---
-
-# ⚙️ GitHub статистика:
-<table>
-  <tr>
-    <td>
-      <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=viktor-levic&theme=tokyonight&background=000000" alt="Dev's Github stats"/>
-    </td>
-    <td>
-      <img height="220px" align="right" alt="Dev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=viktor-levic&layout=compact&theme=tokyonight"/>
-    </td>
-  </tr>
-</table>
