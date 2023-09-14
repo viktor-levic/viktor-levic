@@ -25,25 +25,14 @@
 <div id="headers" align="center">
 <h1>
   Hi everybody)
-  I'm Viktor Levitskyi
+  I'm Viktor Levitskyi, Java Backend Developer
   <img src="https://emoji.discadia.com/emojis/19e6e7b6-e2c9-4cfa-8f13-cdd371a91f02.gif" width="50px"/>
 </h1>
 </div>
 
 ---
- 
-# 👨‍💻 About me:
-- <img src="https://github.com/viktor-levic/viktor-levic/blob/main/КНУ_МЕХМАТ.gif" width="30"> I'm a student in Taras Shevchenko National University of Kyiv, Ukraine.
 
-- <img src="https://media.tenor.com/iKq0McbAqCMAAAAC/math-zach-galifianakis.gif" width="30"> Faculty of Mechanics And Mathematics/Department of Algebra and Computer Mathematics/Bachelor Of Computer Mathematics/4th year student.
-
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm interested in Java development.
-
-
----
-
-
-# 🛠️ Languages and Tools :
+# 🛠️ Languages and Tools I use:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
@@ -61,16 +50,21 @@
 </div>
 
 ---
+ 
+# 👨‍💻 About me:
+- <img src="https://github.com/viktor-levic/viktor-levic/blob/main/КНУ_МЕХМАТ.gif" width="30"> I'm a student in Taras Shevchenko National University of Kyiv, Ukraine.
 
-# 🔖 My Projects:
+- <img src="https://media.tenor.com/iKq0McbAqCMAAAAC/math-zach-galifianakis.gif" width="30"> Faculty of Mechanics And Mathematics/Department of Algebra and Computer Mathematics/Bachelor Of Computer Mathematics/4th year student.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=viktor-levic&theme=tokyonight&repo=WebsiteForRunners)](https://github.com/viktor-levic/WebsiteForRunners)
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm interested in Java development.
+
+---
 
 # ⚙️ GitHub статистика:
 <table>
   <tr>
     <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=viktor-levic&theme=tokyonight&background=000000" alt="Dev's Github stats"/>
+      <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=viktor-levic&theme=tokyonight&background=000000" alt="Dev's Github stats"/>
     </td>
     <td>
       <img height="220px" align="right" alt="Dev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=viktor-levic&layout=compact&theme=tokyonight"/>
