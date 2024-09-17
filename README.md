@@ -18,7 +18,7 @@
  <a href="https://www.codewars.com/users/Viktor_Levitskyi">
    <img src="https://img.shields.io/badge/Codewars-red?style=for-the-badge&logo=codewars&logoColor=black" alt="Codewars Badge"/>
  <a href="https://levickij15.wixsite.com/levit-java">
-   <img src="https://img.shields.io/badge/My%20Site-yellow" alt="My Site Badge" width="148px"/>
+   <img src="https://img.shields.io/badge/My%20Site-yellow" alt="My Site Badge" width="80" height="30"/>
  </a>
 </div>
 
