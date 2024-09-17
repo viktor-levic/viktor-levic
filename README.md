@@ -17,12 +17,8 @@
  </a>
  <a href="https://www.codewars.com/users/Viktor_Levitskyi">
    <img src="https://img.shields.io/badge/Codewars-red?style=for-the-badge&logo=codewars&logoColor=black" alt="Codewars Badge"/>
- </a>
- <a href="https://www.youtube.com/playlist?list=PLTbWlgSorUOZzInUbolgwpdvFxYvtjvcg">
-   <img src="https://img.shields.io/badge/Youtube-green?style=for-the-badge&logo=youtube&logoColor=white" alt="Study Resources"/>
- </a>
  <a href="https://levickij15.wixsite.com/levit-java">
-   <img src="https://img.shields.io/badge/My%20Technical%20Blog-yellow" alt="My Site Badge" width="148px"/>
+   <img src="https://img.shields.io/badge/My%20Site-yellow" alt="My Site Badge" width="148px"/>
  </a>
 </div>
 
@@ -41,12 +37,9 @@
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/viktor-levic/viktor-levic/blob/main/Apache%20Maven.svg" title="Maven" alt="Maven" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/viktor-levic/viktor-levic/blob/main/hibernate-ar21.svg" title="Hibernate" alt="Hibernate" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="50" height="50"/>&nbsp;
 </div>
 
 ---
@@ -54,8 +47,8 @@
 # 👨‍💻 About me:
 - <img src="https://github.com/viktor-levic/viktor-levic/blob/main/КНУ_МЕХМАТ.gif" width="30"> I'm a student in Taras Shevchenko National University of Kyiv, Ukraine.
 
-- <img src="https://media.tenor.com/iKq0McbAqCMAAAAC/math-zach-galifianakis.gif" width="30"> Faculty of Mechanics And Mathematics/Department of Algebra and Computer Mathematics/Bachelor Of Computer Mathematics/4th year student.
+- <img src="https://media.tenor.com/iKq0McbAqCMAAAAC/math-zach-galifianakis.gif" width="30"> Faculty of Mechanics And Mathematics/Department of Algebra and Computer Mathematics/Bachelor Of Computer Mathematics/1st year master student.
 
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm interested in Java development.
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm quite interested in Java development. Have a 1 year of non-commercial experience.
 
 ---
