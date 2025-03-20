@@ -26,7 +26,7 @@
 
 <div id="headers" align="center">
 <h1>
-  Hi, I'm Viktor Levitskyi, Java Backend Developer
+  Hi, I'm Viktor Levitskyi
   <img src="https://emoji.discadia.com/emojis/19e6e7b6-e2c9-4cfa-8f13-cdd371a91f02.gif" width="50px"/>
 </h1>
 </div>
@@ -49,6 +49,5 @@
 
 - <img src="https://media.tenor.com/iKq0McbAqCMAAAAC/math-zach-galifianakis.gif" width="30"> Faculty of Mechanics And Mathematics/Department of Algebra and Computer Mathematics/Bachelor Of Computer Mathematics/1st year master student.
 
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm quite interested in Java development. Have a 1 year of non-commercial experience.
-
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 ---
